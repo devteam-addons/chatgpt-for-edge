@@ -4,20 +4,11 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/chatgpt4google?style=social)](https://twitter.com/chatgpt4google)
 ![License](https://img.shields.io/github/license/wong2/chatgpt-google-extension)
 
-### Notice (2023-02-20)
-
-As this extension has been acquired, this code repository will no longer be updated from now on.
-
-**My new project:**
-[ChatHub: All-in-one chatbot client](https://github.com/chathub-dev/chathub)
-
----
-
 A browser extension to display ChatGPT response alongside Google (and other search engines) results
 
-[Install from Chrome Web Store](https://chatgpt4google.com/chrome?utm_source=github)
+[Install from Chrome Web Store](#)
 
-[Install from Mozilla Add-on Store](https://chatgpt4google.com/firefox?utm_source=github)
+[Install from Mozilla Add-on Store](#)
 
 ## Supported Search Engines
 
@@ -60,8 +51,4 @@ Enable "Allow access to search page results" in the extension management page
 2. Install dependencies with `npm`
 3. `npm run build`
 4. Load `build/chromium/` or `build/firefox/` directory to your browser
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=wong2/chatgpt-google-extension&type=Date)](https://star-history.com/#wong2/chatgpt-google-extension&Date)
 
