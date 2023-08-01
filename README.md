@@ -6,7 +6,7 @@
 
 A browser extension to display ChatGPT response alongside Google (and other search engines) results
 
-[Install from Edge Add-on Store]([#](https://microsoftedge.microsoft.com/addons/detail/chatgpt-for-edge-all-po/fkjiikdgpjeaocggailpihiklianahgp))
+[Install from Edge Add-on Store](https://microsoftedge.microsoft.com/addons/detail/chatgpt-for-edge-all-po/fkjiikdgpjeaocggailpihiklianahgp)
 
 [Install from Mozilla Add-on Store](#)
 
