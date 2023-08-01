@@ -1,4 +1,4 @@
-# ChatGPT for Google
+# ChatGPT for Edge
 
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/wong2/chatgpt-google-extension/pre-release-build.yml)
 [![Twitter Follow](https://img.shields.io/twitter/follow/chatgpt4google?style=social)](https://twitter.com/chatgpt4google)
@@ -6,7 +6,7 @@
 
 A browser extension to display ChatGPT response alongside Google (and other search engines) results
 
-[Install from Chrome Web Store](#)
+[Install from Edge Add-on Store]([#](https://microsoftedge.microsoft.com/addons/detail/chatgpt-for-edge-all-po/fkjiikdgpjeaocggailpihiklianahgp))
 
 [Install from Mozilla Add-on Store](#)
 
