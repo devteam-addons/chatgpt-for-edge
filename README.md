@@ -16,7 +16,7 @@ Google, Baidu, Bing, DuckDuckGo, Brave, Yahoo, Naver, Yandex, Kagi, Searx
 
 ## Screenshot
 
-![Screenshot](screenshots/extension.png?raw=true)
+![Screenshot](https://chatgptedge.org/Assets/images/1280-800.png)
 
 ## Features
 
@@ -30,20 +30,6 @@ Google, Baidu, Bing, DuckDuckGo, Brave, Yahoo, Naver, Yandex, Kagi, Searx
 - Copy to clipboard
 - Custom trigger mode
 - Switch languages
-
-## Troubleshooting
-
-### How to make it work in Brave
-
-![Screenshot](screenshots/brave.png?raw=true)
-
-Disable "Prevent sites from fingerprinting me based on my language preferences" in `brave://settings/shields`
-
-### How to make it work in Opera
-
-![Screenshot](screenshots/opera.png?raw=true)
-
-Enable "Allow access to search page results" in the extension management page
 
 ## Build from source
 
